@@ -2,9 +2,14 @@
 **Record some of strategies I have researched**
 
 ## Light Refraction Strategies at Integer Prices
+**Time: 2024.1**<br>
 Imporved from the paper "MEASURING THE PRESSURE OF PRICES-INTEGER VALUES, OVER THE STOCK TREND" (2010)<br>
 1. Constructed and Replicated a light refraction strategy that predicts the direction and slope of a stock’s move as it crosses an integer price. The classification of refraction and reflection is determined by the expected attitude of the market.
 2. Improved the strategy of the original paper based on my own thinking by adding some optimization features, including regression fitting and stock price normalization. Backtesting on China's SSE index, finally obtained a better preformance than the original strategy.
+
+## Market Making Strategy for Crypto Market
+**Time: 2023.10 - 2023.12**<br>
+The original project goes here: https://gitlab.engr.illinois.edu/fin556_algo_market_micro_fall_2023/fin556_algo_fall_2023_group_05/group_05_project
 
 
 
