@@ -1,7 +1,7 @@
 # Projects
 **Record some of the projects I've done** :smiley:
 
-(These are papers I've backtested and reproduced. There are some other papers that I have merely read in the 中文版(Chinese version) folder.)
+(These are some of the strategies I have reproduced, i.e. I have implemented them in Python. There are some other papers that I have merely read in the 中文版(Chinese version) folder.)
 
 ## Statistical Arbitrage Strategy Based on PCA and Mean Regression (Ongoing)
 **2024.2 -** 
