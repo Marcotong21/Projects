@@ -1,5 +1,5 @@
 # Projects
-
+**Record some of strategies I have researched**
 
 ## Light Refraction Strategies at Integer Prices
 Imporved frome the paper "MEASURING THE PRESSURE OF PRICES-INTEGER VALUES, OVER THE STOCK TREND" (2010)<br>
